@@ -1,4 +1,4 @@
-# Used by `image`, `push` & `deploy` targets, override as required
+# Used by `image`, `push` & `deploy` targets, override as required 
 IMAGE_REG ?= docker.io
 IMAGE_REPO ?= sharath085256/python-webapp
 IMAGE_TAG ?= latest
